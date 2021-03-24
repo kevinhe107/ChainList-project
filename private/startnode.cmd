@@ -1,0 +1,1 @@
+geth --networkid 4224 --mine --minerthreads 1 --datadir "~/ChainSkills/private" --nodiscover --rpc --rpcport "8545" --port "30303" --rpccorsdomain "*" --nat "any" --rpcapi eth,web3,personal,net --unlock 9b8d6161ca8809a738f53b039badfc3a7d2a5d53 --password ./password.sec --allow-insecure-unlock
